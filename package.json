@@ -1,0 +1,23 @@
+{
+  "name": "test-pnpm-monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -rf node_modules **/*/node_modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thzt/test-pnpm-monorepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thzt/test-pnpm-monorepo/issues"
+  },
+  "homepage": "https://github.com/thzt/test-pnpm-monorepo#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
